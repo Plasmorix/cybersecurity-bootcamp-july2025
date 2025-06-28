@@ -12,7 +12,9 @@ This bootcamp will be solely focused on the **Cisco's cybersecurity track**. I w
 - CyberOPs Associate
 
 ## Repo Structure
-/certs/ ➡️ Notes, preparatios, and progress towards Cisco certifications
-/projects/ ➡️ Capstone and mini-projects completed during the bootcamp
-/labs/ ➡️ Packet Tracer and other technical labs
-/notes/ ➡️ Theory notes on networking, security, tools, and playbooks
+```
+/certs/    ➡️ Notes, preparatios, and progress towards Cisco certifications.  
+/projects/ ➡️ Capstone and mini-projects completed during the bootcamp.  
+/labs/     ➡️ Packet Tracer and other technical labs.  
+/notes/    ➡️ Theory notes on networking, security, tools, and playbooks.  
+```
