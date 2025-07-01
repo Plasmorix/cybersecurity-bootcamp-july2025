@@ -26,12 +26,12 @@ With ASCII, each character is represented by 8 bits, as follows:
 
 ## What will I learn in this module?
 - Module Objective: Explain network types, components, and connections.  
-| Topic Title                | Topic Objective                                       |
-| :------------------------: | :---------------------------------------------------: |
-| Clients and Servers        | Explain the roles of clients and servers in a network |
-| Network Components         | Explain the roles of network infrastructure devices   |
-| ISP Connectivity Options   | Describe ISP connectivity options.                    |
 
+| Topic Title              | Topic Objective                                      |
+|--------------------------|------------------------------------------------------|
+| Clients and Servers      | Explain the roles of clients and servers in a network |
+| Network Components       | Explain the roles of network infrastructure devices  |
+| ISP Connectivity Options | Describe ISP connectivity options.                   |
 
 ## Clients and Servers
 
