@@ -18,7 +18,8 @@ With ASCII, each character is represented by 8 bits, as follows:
 
 - Electrical Signals - Transmission is achieved by representing data as electrical pulses on copper wire
 - Optical Signals - Transmission is achieved by converting the electrical signals into light pulses.
-- Wireless Signals - Transmission is achieved by using infrared, microwave, or radio waves through air.
+- Wireless Signals - Transmission is achieved by using infrared, microwave, or radio waves through air.  
+
 
 # Module 2: Network Components, Types, and Connections
 
